@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "random-string": "^0.2.0",
     "superagent": "^5.1.0"
   }
 }
